@@ -1,0 +1,6 @@
+{
+  "description": "",
+  "dependencies": {
+    "inquirer": "^12.3.0"
+  }
+}
